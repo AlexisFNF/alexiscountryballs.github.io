@@ -1,0 +1,81 @@
+*{
+    text-align: center;
+    font-family: 'LEMON MILK Bold';
+    text-shadow: 4px 3px 2px black;
+    background-color: rgb(19, 19, 182);
+}
+
+.cb{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.ipx{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.vdz{
+    width: 165px;
+    height: 165px;
+    border-radius: 50%;
+}
+
+.cc{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.am{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.pdm {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.provincia {
+    width: 500px;
+    height: 300px;
+}
+
+.claro {
+    width: 500px;
+    height: 300px;
+}
+
+.ejem{
+    width: 500px;
+    height: 300px;
+}
+
+.salvar {
+    width: 500px;
+    height: 300px;
+}
+
+.plantilla {
+    width: 500px;
+    height: 300px;
+}
+
+h1 {
+    color: rgb(211, 197, 7);
+}
+
+h2 {
+    color: rgb(219, 10, 10);
+}
+
+button {
+    background-color: rgb(5, 175, 33);
+    color: black;
+    font-size: x-large;
+}
