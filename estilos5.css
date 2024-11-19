@@ -1,0 +1,27 @@
+/* styles.css */
+* {
+  font-family: 'LEMON MILK Bold';
+  background-color: aquamarine;
+  color: purple;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+}
+
+#gameCanvasContainer {
+    border: 2px solid #046b1e;
+}
+
+canvas {
+    background-color: #2f9237;
+}
+
+#score {
+    font-size: 24px;
+    margin-top: 10px;
+}
