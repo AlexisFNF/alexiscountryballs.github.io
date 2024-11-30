@@ -1,7 +1,7 @@
   *{
       text-shadow: 4px 3px 2px black;
-      font-family: 'LEMONMILK-Bold';
-    background-color: #91b0c5;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #cad8e2;
   }
 
 @media (max-width: 800px) {
@@ -39,16 +39,28 @@
     font-size: xx-large;
   }
   *{
-    margin:0;
+    margin: 7px;;
     padding: 0;
-    font-family: 'LEMONMILK-Bold';
    text-align: center;
 }
 
+.you{
+  width: 19%;
+  height: 169px;
+}
+
+.rob{
+  width: 19%;
+  height: 169px;
+}
+
+.ban{
+  width: 19%;
+  height: 169px;
+}
 
 .contenedor{
   padding: 60px 0;
-  font-family: 'LEMONMILK-Bold';
 }
 
 .titulo{
@@ -81,24 +93,12 @@ h2{
 }
 
 
-
-.footer{
-  background-color : rgb(11, 0, 51);
-  background-position-x: 1300px;
-  background-position-y: 100px;
-  font-family: 'LEMONMILK-Bold';
-  text-decoration: dashed;
-  text-align: center;
-
-}
-
 #qwerty {
   background-color: #e53c3c;
 
 }
 
 #dfjk {
-  font-family: 'LEMONMILK-Bold';
   color: white;
   background-color: black;
   font-size: large;
@@ -111,7 +111,6 @@ h2{
 }
 
 .links{
-  font-family: 'LEMONMILK-Bold';
    text-shadow: #4e4e4e;
   text-size-adjust: 100px;
    color: #cc1609;
@@ -152,19 +151,6 @@ h2{
   font-size: xx-large;
 }
 
-.yt{
-  background-color : rgb(11, 0, 51);
-  background-position-x: 1300px;
-  background-position-y: 100px;
-}
-
-.rb{
-  background-color : rgb(11, 0, 51);
-  background-position-x: 1300px;
-  background-position-y: 100px;
-  height: 10px;
-  
-}
 
 .cbbrowser {
   width: 80%;
@@ -186,6 +172,7 @@ h2{
   width: 100%;
   height: 100%;
   border: 0;
+  text-align: center;
 }
 
 .contenido-textos {
@@ -248,9 +235,14 @@ h2{
   border: 0;
 }
 
-aside {
-width: 10%;
-height: 100%;
-background-color: #cc1609;
-color: #cccccc;
+.mangos {
+  width: 25%;
+}
+
+.sandias {
+  width: 25%;
+}
+
+.gallinas {
+  width: 25%;
 }
